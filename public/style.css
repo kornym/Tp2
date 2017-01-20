@@ -1,0 +1,52 @@
+ body {
+	background-image: url("354276-admin.jpg");
+	
+	text-align: center;
+    margin-top: 170px;
+ }
+ 
+
+ #rental{
+	 margin-top: 30px;
+ }
+ /* id*/
+ 
+ #car{
+	 margin-top: 80px;
+	 
+ }
+ #compute{
+	 margin-top: 30px;
+	 width: 80px/* Ta largeur */;
+     height: 50px /* Ta hauteur */;
+     background: #d3b2a6;
+	 border-radius : 12px
+	 
+ }
+ 
+ h1{
+	margin-top: -45px;
+	font-size: 300% ;
+	font-weight: 800%;
+	
+	color : maroon;
+ }
+
+ 
+#compute:hover {
+width: 90px;
+height:60px;
+background: #b36661;
+}
+
+
+ .model{
+	 
+	 
+ }
+ /* class */
+ 
+ #rental .begin{
+	 
+	 
+ }
